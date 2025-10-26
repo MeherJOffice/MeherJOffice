@@ -43,7 +43,7 @@
 ║ Title  Unity Tools Pack (Editor)                             ║
 ║ Signal Addressables helpers, TMP i18n, screenshot kit, macros║
 ║ Stack  C# · URP · Editor · Addressables                      ║
-║ Link   #                                                     ║
+║ Link   https://www.davanciink.com/projects/unity-tools-pack  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -52,7 +52,7 @@
 ║ Title  Cocos Build Orchestrator                              ║
 ║ Signal Deterministic iOS/Android/Xcode outputs for Cocos 3.x ║
 ║ Stack  Node/TS · Python · Xcode · CLI                        ║
-║ Link   #                                                     ║
+║ Link   https://www.davanciink.com/projects/cocos-orchestrator║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -61,7 +61,7 @@
 ║ Title  Jenkins Auto-Gen Pipeline                             ║
 ║ Signal Monorepo CI, dynamic engines, self-healing cleanup    ║
 ║ Stack  Groovy · Go · Python · macOS runners                  ║
-║ Link   #                                                     ║
+║ Link   https://www.davanciink.com/projects/jenkins-autogen   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -70,7 +70,7 @@
 ║ Title  Rage Panda (Mobile)                                   ║
 ║ Signal Unity 6 launch, URP perf, IAP, analytics, CI delivery ║
 ║ Stack  Unity 6 · C# · Mobile                                 ║
-║ Link   #                                                     ║
+║ Link   https://www.davanciink.com/projects/rage-panda        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -112,8 +112,8 @@
 
 ### Asset Store // DaVanci Ink
 
-- Publisher hub → [assetstore.unity.com/publishers/78800](https://assetstore.unity.com/publishers/78800)  
-- Advanced PlayerPrefs PRO → [assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-pro-244725](https://assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-pro-244725)  
+- Publisher hub → [assetstore.unity.com/publishers/78800](https://assetstore.unity.com/publishers/78800)
+- Advanced PlayerPrefs PRO → [assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-pro-244725](https://assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-pro-244725)
 - Advanced PlayerPrefs → [assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-243581](https://assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-243581)
 
 <p align="center">
@@ -146,11 +146,11 @@
 ### Activity Signals
 
 ```ansi
-\u001b[0;32m[00:00:04] init.retro() → CRT pipeline steady\u001b[0m
-\u001b[0;36m[00:01:25] asset_sync ⇢ Unity Store listings refreshed\u001b[0m
-\u001b[0;33m[00:02:58] ci_dispatch ⇢ Jenkins auto-gen pipeline re-armed\u001b[0m
-\u001b[0;35m[00:04:21] gameplay_probe ⇢ Rage Panda telemetry green\u001b[0m
-\u001b[0;32m[00:05:47] awaiting next deploy window...\u001b[0m
+[0;32m[00:00:04] init.retro() → CRT pipeline steady[0m
+[0;36m[00:01:25] asset_sync ⇢ Unity Store listings refreshed[0m
+[0;33m[00:02:58] ci_dispatch ⇢ Jenkins auto-gen pipeline re-armed[0m
+[0;35m[00:04:21] gameplay_probe ⇢ Rage Panda telemetry green[0m
+[0;32m[00:05:47] awaiting next deploy window...[0m
 ```
 
 ▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞
@@ -177,4 +177,3 @@ des expériences mobiles stables tout en cultivant une signature rétro.
 ---
 
 Last updated: 2025-10-26
-
