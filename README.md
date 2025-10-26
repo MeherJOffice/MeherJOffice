@@ -1,127 +1,111 @@
-<!--
-Tip: Put this file in a repo named exactly like your GitHub username:
-github.com/<your-username>/<your-username>
--->
-
-<h1 align="center">Meher “Davanci” — Senior Game Developer & Automation Engineer</h1>
+<!-- Profile README for a sleek, creative look (works out of the box) -->
+<!-- Put this file in a repo named exactly like your GitHub username:
+     github.com/YOUR_USERNAME/YOUR_USERNAME -->
 
 <p align="center">
-  Building high-quality <b>Unity/Cocos</b> games and bulletproof <b>CI/CD</b> pipelines.
-  <br/>
-  <b>Paris (Île-de-France)</b> · Open to Unity SDK / Tools / Gameplay · FR / EN
+  <img src="https://img.shields.io/badge/Davanci%20Ink-%F0%9F%8E%A8%20Game%20%26%20Automation%20Lab-111?style=for-the-badge" alt="Davanci Ink">
+</p>
+
+<h1 align="center">Meher “Davanci” — Game Dev • Tools • Automation</h1>
+
+<p align="center">
+  <b>Unity / Cocos • Editor Tools • CI & Automation • Flutter</b><br/>
+  Paris (Île-de-France) · FR / EN
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/<your-linkedin>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:<your-email>"><img alt="Email" src="https://img.shields.io/badge/Email-181717?logo=minutemailer&logoColor=white"></a>
-  <a href="https://<your-portfolio>"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?logo=safari&logoColor=white"></a>
-  <a href="https://itch.io/profile/<your-itch>"><img alt="itch.io" src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white"></a>
-  <img alt="Platform" src="https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Desktop-444">
+  <img alt="" src="https://svg-banners.vercel.app/api?type=glitch&text1=DAVANCI%20LAB&width=1000&height=140"/>
+</p>
+
+<p align="center">
+  <a href="#-live-terminal">Terminal</a> •
+  <a href="#-signature-projects">Projects</a> •
+  <a href="#-stack-map">Stack Map</a> •
+  <a href="#-toolbox">Toolbox</a> •
+  <a href="#-contact">Contact</a> •
+  <a href="#-français">FR</a>
 </p>
 
 ---
 
-## 👋 About me
-- **Senior Game Developer & Automation Engineer** with strong experience in **Unity (6.x)** and **Cocos Creator (2.x / 3.7+)**.  
-- I design **tools, SDKs, and build systems** that scale: **Jenkins**, **Golang**, **Python**, **Node**, **Firebase**.  
-- I ship production apps/games, optimize pipelines, and keep teams shipping confidently.  
-- Currently in **Paris**, open to **Unity Tools/SDK/Gameplay** or **Tech Lead** roles.
+## 💻 Live Terminal
 
----
+> I build **robust pipelines** and **editor tools** so teams ship faster.
 
-## 🧰 Tech stack (core)
-**Game/Engines:** Unity 6, Cocos Creator 2.x/3.x  
-**Languages:** C#, TypeScript/Node, Golang, Python  
-**Mobile & UI:** Flutter, Firebase, TMP, Addressables, URP  
-**Build/CI:** Jenkins, Fastlane, Xcode 16, Gradle, GitHub Actions  
-**DevOps:** Docker, VMware/VM templates, macOS runners, Bash/Zsh  
-**Data/Cloud:** Firestore/Storage, REST, Webhooks  
-**Other:** Editor tooling, asset pipelines, localization/translation tooling
+```bash
+$ whoami
+meher_davanci  # Senior Game Developer & Automation Engineer
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cocos-1D1D1D"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-</p>
+$ interests --top
+Unity-Tools  Cocos-CI  Jenkins-AutoGen  URP-Perf  EditorUX  Flutter
 
----
+$ now
+🛠  Building AI-assisted CV/Letter generator (Flutter + Node Proxy)
+🧪 Prototyping Unity Editor extensions (TMP localization, screenshot kit)
+🚀 Hunting Unity tools/SDK roles in Paris / remote-FR
 
-## 🚀 Highlights
-- Built **auto-generation pipelines** for Unity & Cocos (iOS/Android/Web) with **Jenkins + Go/Python** for fully reproducible builds across Macs/VMs.  
-- Created **Unity Editor tools**: translation manager, addressables helpers, lighting/volume fixers, screenshot generator, etc.  
-- Published multiple mobile apps/games; focus on **performance**, **build robustness**, and **store compliance**.  
-- Strong **FR/EN** collaboration; led teams, mentored interns, shipped on tight timelines.
+$ motto
+"Ship clean. Automate boring. Never block creatives."
+🎯 Signature Projects
+Portfolio-style cards. Links work as placeholders (they won’t 404).
 
----
+Project	What it is	Tech
+Unity Tools Pack (Editor)	Addressables helpers, TMP i18n, screenshot generator	C# · Editor · URP · Addressables · Repo
+Cocos Build Orchestrator	Deterministic iOS/Android/Xcode outputs from Cocos 3.x	Node/TS · Python · Xcode · Repo
+Jenkins Auto-Gen	Monorepo pipeline for Unity/Cocos/Flutter, dynamic engine paths	Groovy · Go · Python · Repo
+Rage Panda (Mobile)	Mobile Unity game, URP optimizations, IAP, analytics, CI	Unity 6 · C# · Mobile · Repo
 
-## 🧪 Selected projects
-> Replace the links below with your real repos/screenshots. Keep 3–6 items.
+<p align="center"> <img src="https://img.shields.io/badge/Showreel-1%3A30%20min-8A2BE2?style=for-the-badge&logo=youtube" alt="Showreel"> </p>
+🗺 Stack Map
+mermaid
+Copy code
+graph LR
+  A[Unity 6 / C#] --- B[Editor Tools<br/>Addressables / TMP / URP]
+  A --- C[Mobile Builds<br/>iOS/Android]
+  D[Cocos Creator 2.x/3.x] --- C
+  C --> E[Fastlane / Xcode 16]
+  B --> F[Automation Scripts]
+  F --> G[Jenkins / CLI Tools (Go/Python/TS)]
+  G --> H[Artifacts / Stores]
+  I[Flutter] --> J[Tools & Apps]
+  J --> H
+🧰 Toolbox
+Core:
+Unity 6 · Cocos Creator 2.x/3.x · C# · Golang · Python · TypeScript/Node
+URP · Addressables · TMP · Flutter
 
-- **Unity Tools Pack (Editor)** — Addressables helpers, TMP localization, screenshot generator.  
-  `C# · Editor · URP · Addressables` — [Repo](https://github.com/<your-username>/unity-tools-pack) · [Docs](https://github.com/<your-username>/unity-tools-pack/wiki)
+Build & Ops:
+Jenkins · Fastlane · Xcode 16 · Gradle · Docker · VMware · Bash/Zsh
 
-- **Cocos 3.x Build Orchestrator** — CLI + scripts to produce iOS/Android/Xcode projects deterministically.  
-  `Cocos · Node/TS · Python · Xcode` — [Repo](https://github.com/<your-username>/cocos-build-orchestrator)
+<p> <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Cocos-1D1D1D"/> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> </p>
+🧪 Tiny Showcase
+A 12-line Unity Editor snippet I actually use.
 
-- **Jenkins Auto-Gen Pipeline** — Monorepo pipeline (Unity, Cocos, Flutter) with dynamic engine paths and safe cleanup.  
-  `Groovy · Go · Python` — [Repo](https://github.com/<your-username>/jenkins-autogen)
+csharp
+Copy code
+// Snap selected objects to grid (0.5f) — saves minutes every session.
+using UnityEditor; using UnityEngine;
+public class Snapper { [MenuItem("Davanci/Snap to Grid _%g")]
+static void Do(){ foreach(var t in Selection.transforms){
+  var p=t.position; p.x=Mathf.Round(p.x*2)/2f; p.y=Mathf.Round(p.y*2)/2f; p.z=Mathf.Round(p.z*2)/2f; t.position=p;
+}}}
+🤝 Contact
+✉️ Email: meher.davanci(at)proton.me
 
-- **Unity Mobile Game (URP)** — Optimized mobile rendering, object pooling, analytics, IAP, and CI delivery.  
-  `Unity · C# · URP · Mobile` — [Repo](https://github.com/<your-username>/rage-panda) · [Video](https://youtu.be/<your-id>)
+💼 LinkedIn: https://linkedin.com/ (add your handle)
 
----
+🌐 Portfolio: https://davanci-ink.dev (example)
 
-## 📦 Reusable libraries / tools
-- **Davanci.Utils** — Events, pooling, helpers for Unity. → `C#`  
-- **SetupXcodeWorkspace** — Go tool to patch Xcode projects post-build. → `Go`  
-- **AutoTranslateWindow** — Editor tool for TMP + legacy UI.Text, with batching and review UI. → `C#`
+🕹 itch.io: https://itch.io/ (add your handle)
 
-> If private, add short GIFs or screenshots in the README of each repo.
+<p align="center"> <img src="https://img.shields.io/badge/Open_to-Unity%20Tools%2FSDK%20%7C%20Gameplay%20%7C%20Tech%20Lead-444?style=for-the-badge"/> </p>
+<details id="-français"> <summary><b>🇫🇷 Version courte (FR)</b></summary>
+Développeur de jeux & ingénieur automatisation (Unity & Cocos).
+Je conçois des outils éditeur et des pipelines (Jenkins/Go/Python) pour livrer des jeux mobiles/Desktop de manière fiable. Basé à Paris.
+Ouvert à des rôles Unity Tools/SDK/Gameplay.
 
----
+Points forts : URP perf, Addressables, localisation TMP, CI reproductible, Xcode/Gradle.
 
-## 📈 What I’m focusing on now
-- Unity **Tools/SDK** roles in **Paris / remote-FR**  
-- Job-tailored **CV/Letter generator** (Flutter + Node proxy)  
-- Editor UX, rendering performance, and automated QA
+Objectif : mettre la technique au service des équipes créatives, sans friction.
 
----
-
-## 🤝 Let’s connect
-- ✉️ **Email:** <your-email>  
-- 💼 **LinkedIn:** <your-linkedin>  
-- 🌐 **Portfolio:** <your-portfolio>  
-- 🕹 **itch.io:** <your-itch>
-
-<details>
-  <summary>English version (short)</summary>
-
-**Senior Game Developer & Automation Engineer** (Unity & Cocos). I build robust pipelines (Jenkins/Go/Python), editor tools, and ship high-quality mobile/desktop games. Based in Paris (FR/EN). Open to Unity Tools/SDK/Gameplay roles.
-</details>
-
----
-
-### ⭐ Quick pins
-Pin 6 repos on your profile:
-1) `unity-tools-pack` (Editor)  
-2) `cocos-build-orchestrator`  
-3) `jenkins-autogen`  
-4) `setup-xcode-workspace` (Go)  
-5) A flagship **Unity game** repo  
-6) A **Flutter** app/tool you’re proud of
-
----
-
-### 🧭 README maintenance checklist
-- [ ] Replace `<your-username>` + all links.  
-- [ ] Add 1–2 **screenshots or GIFs** per main repo (keep under 1–2 MB).  
-- [ ] Keep “Selected projects” updated (latest first).  
-- [ ] Match job search goals (Paris Unity tools/SDK).  
-- [ ] Avoid sensitive info in public READMEs.
-
+</details> <p align="center"> <sub>Last updated: 2025-10-26</sub> </p> ```
