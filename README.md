@@ -11,12 +11,15 @@
 
 ### 🤝 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://www.davanciink.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-davanciink.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://assetstore.unity.com/publishers/78800" target="_blank"><img src="https://img.shields.io/badge/Unity%20Asset%20Store-DaVanci%20Ink-0f172a?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Asset Store" /></a>
+  <a href="https://www.linkedin.com/in/jouini-meher" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jouini--meher-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jouin.meherr@gmail.com"><img src="https://img.shields.io/badge/Email-jouin.meherr@gmail.com-1f2937?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Davancimeher" target="_blank"><img src="https://img.shields.io/badge/GitHub-Davancimeher-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+<p align="center"><sub>Prefer a quick sync? DM on LinkedIn or email for availability within 24h.</sub></p>
 
 ---
 
