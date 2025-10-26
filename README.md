@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&pause=1600&color=2563EB&center=true&vCenter=true&width=780&lines=Hi+all%2C+I'm+Meher+Jouini+—+aka+Davanci;I+help+teams+ship+smarter+code" alt="Intro typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&pause=1600&color=2563EB&center=true&vCenter=true&width=780&lines=Hi%20all%2C%20I'm%20Meher%20Jouini%20%E2%80%94%20aka%20Davanci;I%20help%20teams%20ship%20smarter%20code" alt="Intro typing" />
 </div>
 
 <h3 align="center">Video Game Developer · Tools Engineer · Automation Lead</h3>
