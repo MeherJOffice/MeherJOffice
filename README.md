@@ -1,88 +1,88 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=24&pause=1000&color=00FF7F&background=0B0B0C00&center=true&vCenter=true&width=600&lines=Meher+%E2%80%9CDavanci%E2%80%9D;Game+Dev+%E2%80%A2+Tools+%E2%80%A2+Automation;Retro+CRT+Signal+Online" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=24&pause=900&duration=3600&color=00FF7F&background=0B0B0C00&center=true&vCenter=true&width=620&lines=Meher+%E2%80%9CDavanci%E2%80%9D;Game+Dev+%E2%80%A2+Tools+%E2%80%A2+Automation;Retro+Signal+%E2%80%A2+Online" alt="Typing intro">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CRT_MODE-ACTIVE-00FF7F?style=for-the-badge&labelColor=111111" alt="CRT Mode">
-  <img src="https://img.shields.io/badge/SYNC_STATUS-STABLE-00FF7F?style=for-the-badge&labelColor=111111" alt="Sync Status">
+  <img src="https://img.shields.io/badge/OPS-STEADY_CLOCK-00FF7F?style=for-the-badge&labelColor=111111" alt="OPS">
+  <img src="https://img.shields.io/badge/SIGNAL-HI_FIDELITY-00FF7F?style=for-the-badge&labelColor=111111" alt="Signal">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0C&height=80&section=header&text=Game%20Dev%20%E2%80%A2%20Tools%20%E2%80%A2%20Automation&fontColor=00FF7F&fontSize=24&fontAlign=50&fontAlignY=45&desc=Signal%3A%20Online&descAlign=50&descAlignY=75" alt="Capsule header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0C&height=94&section=header&text=Meher%20%E2%80%9CDavanci%E2%80%9D&fontColor=00FF7F&fontSize=30&fontAlign=50&fontAlignY=42&desc=Game%20Dev%20%E2%80%A2%20Tools%20%E2%80%A2%20Automation&descAlign=50&descAlignY=72" alt="Capsule header">
 </p>
 
 <div align="center">
-
-```
-┌────────────────────────────────────────────┐
-│  Meher “Davanci”                           │
-│  Game Dev • Tools • Automation             │
-│  Paris (Île-de-France) · FR / EN           │
-│  Motto: Ship tactile worlds & robust pipes │
-└────────────────────────────────────────────┘
-```
-
+<pre>
+╔════════════════════════════════════════════════╗
+║  HANDLE  meher-davanci                         ║
+║  ROLE    Technical Game Developer              ║
+║  FOCUS   Gameplay systems · Toolsmithing       ║
+║  BASE    Paris (Île-de-France) · FR / EN       ║
+║  MOTTO   Craft tactile worlds; automate ops    ║
+╚════════════════════════════════════════════════╝
+</pre>
 </div>
 
-- [Projects](#projects)
-- [Stack & Toolbox](#stack--toolbox)
-- [Terminal Feed](#terminal-feed)
-- [Code Snippet](#code-snippet)
-- [Contact & Links](#contact--links)
+<p align="center"><code>signal.sync(retro_vector, automation_layer);</code></p>
 
-## Projects
+<p align="center">
+  <sub><a href="#projects">Projects</a> · <a href="#stack--toolbox">Stack & Toolbox</a> · <a href="#terminal-feed">Terminal Feed</a> · <a href="#code-snippet">Code Snippet</a> · <a href="#contact--links">Contact</a></sub>
+</p>
 
-```
-╔══════════════════════════════════════════════╗
-║ Unity Tools Pack (Editor)                    ║
-╟─ What: Addressables helpers, TMP i18n,       ║
-║         screenshot kit, perf macros          ║
-╟─ Tech: C# · URP · Editor · Addressables      ║
-╟─ Link: #                                     ║
-╚══════════════════════════════════════════════╝
-```
+▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞
+
+### Projects
 
 ```
-╔══════════════════════════════════════════════╗
-║ Cocos Build Orchestrator                     ║
-╟─ What: Deterministic iOS/Android/Xcode       ║
-║         outputs for Cocos 3.x                ║
-╟─ Tech: Node/TS · Python · Xcode · CLI        ║
-╟─ Link: #                                     ║
-╚══════════════════════════════════════════════╝
+╔═ CARTRIDGE 01 ═══════════════════════════════════════════════╗
+║ Title  Unity Tools Pack (Editor)                             ║
+║ Signal Addressables helpers, TMP i18n, screenshot kit, macros║
+║ Stack  C# · URP · Editor · Addressables                      ║
+║ Link   #                                                     ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ```
-╔══════════════════════════════════════════════╗
-║ Jenkins Auto-Gen Pipeline                    ║
-╟─ What: Monorepo CI for Unity/Cocos/Flutter;  ║
-║         dynamic engine paths; safe cleanup   ║
-╟─ Tech: Groovy · Go · Python · macOS runners  ║
-╟─ Link: #                                     ║
-╚══════════════════════════════════════════════╝
+╔═ CARTRIDGE 02 ═══════════════════════════════════════════════╗
+║ Title  Cocos Build Orchestrator                              ║
+║ Signal Deterministic iOS/Android/Xcode outputs for Cocos 3.x ║
+║ Stack  Node/TS · Python · Xcode · CLI                        ║
+║ Link   #                                                     ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ```
-╔══════════════════════════════════════════════╗
-║ Rage Panda (Mobile)                          ║
-╟─ What: Unity 6 mobile game; URP optimizations║
-║         IAP; analytics; CI delivery          ║
-╟─ Tech: Unity 6 · C# · Mobile                 ║
-╟─ Link: #                                     ║
-╚══════════════════════════════════════════════╝
+╔═ CARTRIDGE 03 ═══════════════════════════════════════════════╗
+║ Title  Jenkins Auto-Gen Pipeline                             ║
+║ Signal Monorepo CI, dynamic engines, self-healing cleanup    ║
+║ Stack  Groovy · Go · Python · macOS runners                  ║
+║ Link   #                                                     ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-## Stack & Toolbox
+```
+╔═ CARTRIDGE 04 ═══════════════════════════════════════════════╗
+║ Title  Rage Panda (Mobile)                                   ║
+║ Signal Unity 6 launch, URP perf, IAP, analytics, CI delivery ║
+║ Stack  Unity 6 · C# · Mobile                                 ║
+║ Link   #                                                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
+
+### Stack & Toolbox
 
 ```
-┌──────── CORE DEV ────────┬────── ENGINES ────────┬───── OPS / CI ──────┐
-│ C# · Node.js · TypeScript │ Unity 6 · Cocos 3.x   │ Jenkins · GitHub CI │
-│ Python · Go · Groovy      │ Godot (tooling)       │ Fastlane · Xcode    │
-│ Bash · Zsh · Regex        │ Shader Graph          │ Docker · Homebrew   │
-└───────────────────────────┴───────────────────────┴─────────────────────┘
+┌────────── DEVELOPMENT ─────────┬──────────── ENGINES ───────────┬──────── DELIVERY ────────┐
+│ C# · Node.js · TypeScript      │ Unity 6 · Cocos 3.x · Godot     │ Jenkins · GitHub Actions │
+│ Python · Go · Groovy           │ Shader Graph · URP              │ Fastlane · Xcode         │
+│ Bash · Zsh · Regex             │ Addressables tooling · Editor   │ Docker · Homebrew · macOS│
+└────────────────────────────────┴────────────────────────────────┴──────────────────────────┘
 ```
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-00FF7F?style=for-the-badge&labelColor=111111&logo=csharp&logoColor=00FF7F" alt="C#">
   <img src="https://img.shields.io/badge/Unity-00FF7F?style=for-the-badge&labelColor=111111&logo=unity&logoColor=00FF7F" alt="Unity">
   <img src="https://img.shields.io/badge/Node.js-00FF7F?style=for-the-badge&labelColor=111111&logo=node.js&logoColor=00FF7F" alt="Node.js">
@@ -91,7 +91,9 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-00FF7F?style=for-the-badge&labelColor=111111&logo=githubactions&logoColor=00FF7F" alt="GitHub Actions">
 </p>
 
-## Terminal Feed
+▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞
+
+### Terminal Feed
 
 ```ansi
 \u001b[0;32m[00:01:42] boot sequence complete — signal integrity nominal\u001b[0m
@@ -101,7 +103,9 @@
 \u001b[0;32m[00:09:18] awaiting next command...\u001b[0m
 ```
 
-## Code Snippet
+▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
+
+### Code Snippet
 
 ```csharp
 using UnityEngine;
@@ -123,21 +127,24 @@ public sealed class GridSnapper : MonoBehaviour
 }
 ```
 
-## Contact & Links
+▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞
+
+### Contact & Links
 
 ```
-User:   meher-davanci
-Email:  meher.davanci(at)proton.me
-City:   Paris (Île-de-France) · FR / EN
-Site:   https://davanci-ink.dev
-LinkedIn: https://linkedin.com/
-Itch.io:  https://itch.io/
+USER     : meher-davanci
+EMAIL    : meher.davanci(at)proton.me
+CITY     : Paris (Île-de-France) · FR / EN
+SITE     : https://davanci-ink.dev
+LINKEDIN : https://linkedin.com/
+ITCH.IO  : https://itch.io/
 ```
 
 <details>
   <summary>Version FR</summary>
 
-Je conçois des outils Unity/Cocos et des pipelines CI modulaires pour livrer des jeux mobiles stables tout en gardant une esthétique rétro assumée.
+Je conçois des outils Unity/Cocos et des pipelines CI modulaires pour livrer
+des jeux mobiles stables tout en gardant une esthétique rétro assumée.
 
 </details>
 
