@@ -11,32 +11,28 @@
 
 ### 🤝 Connect with me
 
-<div align="center">
-  <a href="https://www.davanciink.com" target="_blank" style="margin: 4px 0; display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio icon" width="22" />
-    <span><strong>Portfolio:</strong> davanciink.com</span>
-  </a>
-  <br />
-  <a href="https://assetstore.unity.com/publishers/78800" target="_blank" style="margin: 4px 0; display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity Asset Store icon" width="22" />
-    <span><strong>Unity Asset Store:</strong> DaVanci Ink publisher page</span>
-  </a>
-  <br />
-  <a href="https://www.linkedin.com/in/jouini-meher" target="_blank" style="margin: 4px 0; display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn icon" width="22" />
-    <span><strong>LinkedIn:</strong> jouini-meher</span>
-  </a>
-  <br />
-  <a href="mailto:jouin.meherr@gmail.com" style="margin: 4px 0; display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email icon" width="22" />
-    <span><strong>Email:</strong> jouin.meherr@gmail.com</span>
-  </a>
-  <br />
-  <a href="https://github.com/Davancimeher" target="_blank" style="margin: 4px 0; display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub icon" width="22" />
-    <span><strong>GitHub:</strong> Davancimeher</span>
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="36"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" width="26" /></td>
+    <td><strong>Portfolio:</strong> <a href="https://www.davanciink.com" target="_blank">davanciink.com</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity Asset Store" width="26" /></td>
+    <td><strong>Unity Asset Store:</strong> <a href="https://assetstore.unity.com/publishers/78800" target="_blank">DaVanci Ink publisher page</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="26" /></td>
+    <td><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jouini-meher" target="_blank">jouini-meher</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="26" /></td>
+    <td><strong>Email:</strong> <a href="mailto:jouin.meherr@gmail.com">jouin.meherr@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="26" /></td>
+    <td><strong>GitHub:</strong> <a href="https://github.com/Davancimeher" target="_blank">Davancimeher</a></td>
+  </tr>
+</table>
 
 ---
 
