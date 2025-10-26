@@ -29,6 +29,10 @@
     <td><strong>Email:</strong> <a href="mailto:jouin.meherr@gmail.com">jouin.meherr@gmail.com</a></td>
   </tr>
   <tr>
+    <td><img src="https://raw.githubusercontent.com/Davancimeher/profile-assets/main/icons/phone.svg" alt="Phone" width="26" /></td>
+    <td><strong>Phone:</strong> <a href="tel:+33780904785">+33 7 80 90 47 85</a> <em>(Mobile)</em></td>
+  </tr>
+  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="26" /></td>
     <td><strong>GitHub:</strong> <a href="https://github.com/Davancimeher" target="_blank">Davancimeher</a></td>
   </tr>
