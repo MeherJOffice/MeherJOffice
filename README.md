@@ -1,4 +1,6 @@
-<h1 align="center">Hi all, I'm Jouini — aka Davanci</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&pause=1600&color=2563EB&center=true&vCenter=true&width=780&lines=Hi+all%2C+I'm+Meher+Jouini+—+aka+Davanci;I+help+teams+ship+smarter+code" alt="Intro typing" />
+</div>
 
 <h3 align="center">Video Game Developer · Tools Engineer · Automation Lead</h3>
 
@@ -93,3 +95,21 @@ Explore service offerings, case studies, and engagement models at **[davanciink.
 - Publishing production-safe PlayerPrefs tooling for Unity studios
 
 ---
+
+### 📬 Contact
+
+```
+Name      : Meher Jouini
+Handle    : Davancimeher
+Portfolio : https://www.davanciink.com
+Asset Hub : https://assetstore.unity.com/publishers/78800
+LinkedIn  : https://www.linkedin.com/in/jouini-meher
+Email     : jouin.meherr@gmail.com
+Phone     : +33 7 80 90 47 85
+Location  : Paris (Île-de-France) · FR / EN
+```
+
+<details>
+  <summary>Version française</summary>
+  Je conçois des systèmes de gameplay et des pipelines d’automatisation pour livrer des expériences mobiles fiables, de la préproduction au live ops.
+</details>
