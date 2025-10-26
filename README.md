@@ -1,4 +1,4 @@
-<h1 align="center">Hi all, I'm Jouini — aka Davanci 👋</h1>
+<h1 align="center">Hi all, I'm Jouini — aka Davanci</h1>
 
 <h3 align="center">Video Game Developer · Tools Engineer · Automation Lead</h3>
 
@@ -14,7 +14,7 @@
 <p align="left">
   <a href="https://www.davanciink.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-davanciink.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://assetstore.unity.com/publishers/78800" target="_blank"><img src="https://img.shields.io/badge/Unity%20Asset%20Store-DaVanci%20Ink-0f172a?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Asset Store" /></a>
-  <a href="mailto:jouin.meherr@gmail.com"><img src="https://img.shields.io/badge/Email-meher.davanci@proton.me-1f2937?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:jouin.meherr@gmail.com"><img src="https://img.shields.io/badge/Email-jouin.meherr@gmail.com-1f2937?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Davancimeher" target="_blank"><img src="https://img.shields.io/badge/GitHub-Davancimeher-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
