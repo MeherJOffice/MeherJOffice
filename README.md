@@ -1,6 +1,6 @@
 <h1 align="center">Hi all, I'm Jouini — aka Davanci 👋</h1>
 
-<h3 align="center">Technical Game Developer · Tools Engineer · Automation Lead</h3>
+<h3 align="center">Video Game Developer · Tools Engineer · Automation Lead</h3>
 
 - 📍 Based in Paris (Île-de-France) · FR / EN
 - 🛠 Crafting gameplay tooling, deterministic build systems, and live-ops infrastructure
@@ -14,7 +14,7 @@
 <p align="left">
   <a href="https://www.davanciink.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-davanciink.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://assetstore.unity.com/publishers/78800" target="_blank"><img src="https://img.shields.io/badge/Unity%20Asset%20Store-DaVanci%20Ink-0f172a?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Asset Store" /></a>
-  <a href="mailto:meher.davanci@proton.me"><img src="https://img.shields.io/badge/Email-meher.davanci@proton.me-1f2937?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:jouin.meherr@gmail.com"><img src="https://img.shields.io/badge/Email-meher.davanci@proton.me-1f2937?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Davancimeher" target="_blank"><img src="https://img.shields.io/badge/GitHub-Davancimeher-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -66,13 +66,6 @@ Explore service offerings, case studies, and engagement models at **[davanciink.
 
 ---
 
-### 📊 GitHub Analytics
-
-| <a href="https://github.com/Davancimeher"><img src="https://github-readme-stats.vercel.app/api?username=Davancimeher&show_icons=true&count_private=true&theme=transparent&title_color=2563EB&text_color=334155&icon_color=2563EB" alt="GitHub stats" /></a> | <a href="https://github.com/Davancimeher"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davancimeher&layout=compact&theme=transparent&title_color=2563EB&text_color=334155" alt="Top languages" /></a> |
-| --- | --- |
-
----
-
 ### 🔭 Current Focus
 
 - Building reusable editor workflows that scale across multi-engine teams
@@ -80,19 +73,3 @@ Explore service offerings, case studies, and engagement models at **[davanciink.
 - Publishing production-safe PlayerPrefs tooling for Unity studios
 
 ---
-
-### 📬 Contact
-
-```
-Name      : Jouini Meher
-Handle    : Davancimeher
-Portfolio : https://www.davanciink.com
-Asset Hub : https://assetstore.unity.com/publishers/78800
-Email     : meher.davanci(at)proton.me
-Location  : Paris (Île-de-France) · FR / EN
-```
-
-<details>
-  <summary>Version française</summary>
-  Je conçois des systèmes de gameplay et des pipelines d’automatisation pour livrer des expériences mobiles fiables, de la préproduction au live ops.
-</details>
