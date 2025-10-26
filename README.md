@@ -14,21 +14,21 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.davanciink.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-davanciink.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://www.davanciink.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-davanciink.com-2563EB?style=for-the-badge&labelColor=0b2347&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
       <br /><sub>Studio site · case studies & services</sub>
     </td>
     <td align="center">
-      <a href="https://assetstore.unity.com/publishers/78800" target="_blank"><img src="https://img.shields.io/badge/Unity%20Asset%20Store-DaVanci%20Ink-0f172a?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Asset Store" /></a>
+      <a href="https://assetstore.unity.com/publishers/78800" target="_blank"><img src="https://img.shields.io/badge/Unity%20Asset%20Store-DaVanci%20Ink-0f172a?style=for-the-badge&labelColor=021e1e&logo=unity&logoColor=white" alt="Unity Asset Store" /></a>
       <br /><sub>Published tools & changelogs</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/jouini-meher" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jouini--meher-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://www.linkedin.com/in/jouini-meher" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jouini--meher-0a66c2?style=for-the-badge&labelColor=001c31&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       <br /><sub>DM for collaborations & speaking</sub>
     </td>
     <td align="center">
-      <a href="mailto:meher.davanci@proton.me"><img src="https://img.shields.io/badge/Email-meher.davanci@proton.me-1f2937?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+      <a href="mailto:jouin.meherr@gmail.com"><img src="https://img.shields.io/badge/Email-jouin.meherr@gmail.com-ea4335?style=for-the-badge&labelColor=111827&logo=gmail&logoColor=white" alt="Email" /></a>
       <br /><sub>Project briefs · consulting requests</sub>
     </td>
   </tr>
