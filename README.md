@@ -1,179 +1,112 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=24&pause=850&duration=3600&color=00FF7F&background=0B0B0C00&center=true&vCenter=true&width=720&lines=Jouini+Meher;Game+Dev+%E2%80%A2+Tools+%E2%80%A2+Automation;CRT+Signal+Online" alt="Typing intro">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CRT_MODE-ACTIVE-00FF7F?style=for-the-badge&labelColor=111111" alt="CRT Mode badge">
-  <img src="https://img.shields.io/badge/ASSET_STORE-LIVE-00FF7F?style=for-the-badge&labelColor=111111" alt="Asset Store badge">
-  <img src="https://img.shields.io/badge/AUTOMATION-DEPLOY_READY-00FF7F?style=for-the-badge&labelColor=111111" alt="Automation badge">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0C&height=96&section=header&text=Jouini%20Meher&fontColor=00FF7F&fontSize=34&fontAlign=50&fontAlignY=42&desc=Game%20Dev%20%E2%80%A2%20Tools%20%E2%80%A2%20Automation&descAlign=50&descAlignY=72" alt="Capsule header">
-</p>
-
-<p align="center">
-  <img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/6b9973d5-3a94-4990-88f4-b13ded50ae31.jpg" alt="DaVanci Ink Publisher Logo" width="128">
-</p>
-
 <div align="center">
-<pre>
-╔════════════════════════════════════════════════════╗
-║  HANDLE   Davancimeher                             ║
-║  NAME     Jouini Meher                             ║
-║  ROLE     Technical Game Developer & Toolsmith     ║
-║  BASE     Paris (Île-de-France) · FR / EN          ║
-║  MOTTO    Craft tactile worlds · Automate delivery ║
-╚════════════════════════════════════════════════════╝
-</pre>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=006CFF&center=true&vCenter=true&width=720&lines=Jouini+Meher;Technical+Game+Developer;Tools+Engineer+%7C+Automation+Lead" alt="Hero typing animation" />
 </div>
 
-<p align="center"><code>calibrate(signal_glow, retro_pipeline);</code></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Davancimeher/profile-assets/main/header-gradient.png" alt="Gradient banner" width="100%" />
+</div>
+
+<div align="center">
+
+| Core Focus | Base | Mission |
+| --- | --- | --- |
+| Gameplay systems · Editor tooling · CI/CD automation | Paris (Île-de-France) · FR / EN | Deliver dependable production pipelines for game teams |
+
+</div>
 
 <p align="center">
-  <sub><a href="#projects">Projects</a> · <a href="#pinned-repositories">Pinned Repositories</a> · <a href="#asset-store--davanci-ink">Asset Store</a> · <a href="#stack--toolbox">Stack & Toolbox</a> · <a href="#activity-signals">Activity Signals</a> · <a href="#contact--links">Contact</a></sub>
+  <a href="https://www.davanciink.com"><img src="https://img.shields.io/badge/Portfolio-davanciink.com-082032?style=for-the-badge&labelColor=15181D&logo=internet-explorer&logoColor=67E0FF" alt="Portfolio" /></a>
+  <a href="https://assetstore.unity.com/publishers/78800"><img src="https://img.shields.io/badge/Unity%20Asset%20Store-DaVanci%20Ink-082032?style=for-the-badge&labelColor=15181D&logo=unity&logoColor=EBF4FF" alt="Unity Asset Store" /></a>
+  <a href="mailto:meher.davanci@proton.me"><img src="https://img.shields.io/badge/Email-meher.davanci@proton.me-082032?style=for-the-badge&labelColor=15181D&logo=protonmail&logoColor=67E0FF" alt="Email" /></a>
 </p>
 
-▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞
+---
 
-### Projects
+### Snapshot
 
-```
-╔═ CARTRIDGE 01 ═══════════════════════════════════════════════╗
-║ Title  Unity Tools Pack (Editor)                             ║
-║ Signal Addressables helpers, TMP i18n, screenshot kit, macros║
-║ Stack  C# · URP · Editor · Addressables                      ║
-║ Link   https://www.davanciink.com/projects/unity-tools-pack  ║
-╚══════════════════════════════════════════════════════════════╝
-```
+- `Davancimeher` — Technical Game Developer & Toolsmith
+- Founding DaVanci Ink, Unity Asset Store publisher since 2022 ([publisher profile](https://assetstore.unity.com/publishers/78800))
+- Shipping gameplay tooling, deterministic build pipelines, and live ops automation for Unity & Cocos teams
 
-```
-╔═ CARTRIDGE 02 ═══════════════════════════════════════════════╗
-║ Title  Cocos Build Orchestrator                              ║
-║ Signal Deterministic iOS/Android/Xcode outputs for Cocos 3.x ║
-║ Stack  Node/TS · Python · Xcode · CLI                        ║
-║ Link   https://www.davanciink.com/projects/cocos-orchestrator║
-╚══════════════════════════════════════════════════════════════╝
-```
+---
+
+### Work at a Glance
 
 ```
-╔═ CARTRIDGE 03 ═══════════════════════════════════════════════╗
-║ Title  Jenkins Auto-Gen Pipeline                             ║
-║ Signal Monorepo CI, dynamic engines, self-healing cleanup    ║
-║ Stack  Groovy · Go · Python · macOS runners                  ║
-║ Link   https://www.davanciink.com/projects/jenkins-autogen   ║
-╚══════════════════════════════════════════════════════════════╝
+Unity Tools Pack (Editor)
+• Addressables helpers, localisation workflow, editor macros for one-click profiling
+• C#, Unity URP, Scriptable Render Pipeline
+
+Cocos Build Orchestrator
+• Deterministic macOS/iOS/Android builds with environment fingerprinting
+• Node.js, TypeScript, Python, Cocos Creator CLI
+
+Jenkins Auto-Gen Pipeline
+• Pipeline templates that adapt per-engine, handle cache lifecycles, and heal stale workspaces
+• Groovy, Go, Python, Jenkins, macOS runners
+
+Rage Panda (Mobile)
+• Unity 6 live service pipeline: URP optimisation, IAP, analytics instrumentation, CI delivery
+• Unity 6, C#, Addressables, Mobile DevOps
 ```
 
-```
-╔═ CARTRIDGE 04 ═══════════════════════════════════════════════╗
-║ Title  Rage Panda (Mobile)                                   ║
-║ Signal Unity 6 launch, URP perf, IAP, analytics, CI delivery ║
-║ Stack  Unity 6 · C# · Mobile                                 ║
-║ Link   https://www.davanciink.com/projects/rage-panda        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+---
 
-▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞
+### Unity Asset Store
 
-### Pinned Repositories
+- [Advanced PlayerPrefs PRO](https://assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-pro-244725) — secure PlayerPrefs with namespaces, encryption, and editor tooling
+- [Advanced PlayerPrefs](https://assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-243581) — enhanced PlayerPrefs workflow with diagnostics and profiles
 
-```
-╔═ SIGNAL 01 ══════════════════════════════════════════════════╗
-║ Repo   Moba-Game-proto                                        ║
-║ Focus  Multiplayer arena prototype with live ops plumbing     ║
-║ Link   https://github.com/Davancimeher/Moba-Game-proto        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+> Full catalogue: [assetstore.unity.com/publishers/78800](https://assetstore.unity.com/publishers/78800)
 
-```
-╔═ SIGNAL 02 ══════════════════════════════════════════════════╗
-║ Repo   GenericPooler                                          ║
-║ Focus  High-performance pooling utilities for Unity projects  ║
-║ Link   https://github.com/Davancimeher/GenericPooler          ║
-╚══════════════════════════════════════════════════════════════╝
-```
+---
 
-```
-╔═ SIGNAL 03 ══════════════════════════════════════════════════╗
-║ Repo   WarzoneMobile                                          ║
-║ Focus  Mobile combat loop with analytics and live telemetry   ║
-║ Link   https://github.com/Davancimeher/WarzoneMobile          ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### GitHub Focus
+
+- [Moba-Game-proto](https://github.com/Davancimeher/Moba-Game-proto) — multiplayer arena prototype with live ops plumbing
+- [GenericPooler](https://github.com/Davancimeher/GenericPooler) — high-performance pooling utilities for Unity scenes
+- [WarzoneMobile](https://github.com/Davancimeher/WarzoneMobile) — mobile combat loop exploring analytic pipelines and drops
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davancimeher&repo=Moba-Game-proto&theme=vision-friendly-dark&hide_border=true&bg_color=0B0B0C&title_color=00FF7F&text_color=9BFFCA" alt="Moba Game Proto card" width="320">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davancimeher&repo=GenericPooler&theme=vision-friendly-dark&hide_border=true&bg_color=0B0B0C&title_color=00FF7F&text_color=9BFFCA" alt="Generic Pooler card" width="320">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davancimeher&repo=WarzoneMobile&theme=vision-friendly-dark&hide_border=true&bg_color=0B0B0C&title_color=00FF7F&text_color=9BFFCA" alt="Warzone Mobile card" width="320">
+  <img src="https://github-readme-stats.vercel.app/api?username=Davancimeher&show_icons=true&hide=issues&count_private=true&theme=transparent&title_color=006CFF&text_color=9AD5FF&icon_color=67E0FF" alt="GitHub stats" width="70%" />
 </p>
 
-▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞
-
-### Asset Store // DaVanci Ink
-
-- Publisher hub → [assetstore.unity.com/publishers/78800](https://assetstore.unity.com/publishers/78800)
-- Advanced PlayerPrefs PRO → [assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-pro-244725](https://assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-pro-244725)
-- Advanced PlayerPrefs → [assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-243581](https://assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-243581)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davancimeher&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=0B0B0C&title_color=00FF7F&text_color=9BFFCA&icon_color=00FF7F" alt="GitHub stats" width="720">
-</p>
-
-▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞
+---
 
 ### Stack & Toolbox
 
-```
-┌────────── DEVELOPMENT ─────────┬──────────── ENGINES ───────────┬──────── DELIVERY ────────┐
-│ C# · Node.js · TypeScript      │ Unity 6 · Cocos 3.x · Godot     │ Jenkins · GitHub Actions │
-│ Python · Go · Groovy           │ Shader Graph · URP              │ Fastlane · Xcode         │
-│ Bash · Zsh · Regex             │ Addressables tooling · Editor   │ Docker · Homebrew · macOS│
-└────────────────────────────────┴────────────────────────────────┴──────────────────────────┘
-```
+**Engines & Rendering** — Unity 6, Cocos 3.x, Shader Graph, URP, Godot (tooling)  
+**Automation & CI/CD** — Jenkins, GitHub Actions, Fastlane, macOS runners, Docker, Buildkite  
+**Languages** — C#, TypeScript/Node.js, Python, Go, Groovy, Bash  
+**Workflow** — Xcode, Rider, VS Code, Plastic SCM, Perforce integration, Homebrew, Regex-driven scripting
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-00FF7F?style=for-the-badge&labelColor=111111&logo=csharp&logoColor=00FF7F" alt="C#">
-  <img src="https://img.shields.io/badge/Unity-00FF7F?style=for-the-badge&labelColor=111111&logo=unity&logoColor=00FF7F" alt="Unity">
-  <img src="https://img.shields.io/badge/Node.js-00FF7F?style=for-the-badge&labelColor=111111&logo=node.js&logoColor=00FF7F" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-00FF7F?style=for-the-badge&labelColor=111111&logo=python&logoColor=00FF7F" alt="Python">
-  <img src="https://img.shields.io/badge/Jenkins-00FF7F?style=for-the-badge&labelColor=111111&logo=jenkins&logoColor=00FF7F" alt="Jenkins">
-  <img src="https://img.shields.io/badge/GitHub_Actions-00FF7F?style=for-the-badge&labelColor=111111&logo=githubactions&logoColor=00FF7F" alt="GitHub Actions">
-</p>
+---
 
-▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞
+### Recent Delivery Notes
 
-### Activity Signals
+> “Stable build pipelines unlock creative velocity. My job is to make teams confident in every deploy.”
 
-```ansi
-[0;32m[00:00:04] init.retro() → CRT pipeline steady[0m
-[0;36m[00:01:25] asset_sync ⇢ Unity Store listings refreshed[0m
-[0;33m[00:02:58] ci_dispatch ⇢ Jenkins auto-gen pipeline re-armed[0m
-[0;35m[00:04:21] gameplay_probe ⇢ Rage Panda telemetry green[0m
-[0;32m[00:05:47] awaiting next deploy window...[0m
-```
+- Orchestrated multi-engine monorepo builds with environment pinning & cache auditing
+- Extended Rage Panda analytics feed to support live balance experiments
+- Released upgrade-safe PlayerPrefs tooling adopted by production Unity teams
 
-▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞
+---
 
-### Contact & Links
+### Contact
 
 ```
-NAME     : Jouini Meher
-HANDLE   : Davancimeher
-EMAIL    : meher.davanci(at)proton.me
-SITE     : https://www.davanciink.com
-ASSET ID : https://assetstore.unity.com/publishers/78800
-CITY     : Paris (Île-de-France) · FR / EN
+Name      : Jouini Meher
+Handle    : Davancimeher
+Portfolio : https://www.davanciink.com
+Asset Hub : https://assetstore.unity.com/publishers/78800
+Email     : meher.davanci(at)proton.me
+Location  : Paris (Île-de-France) · FR / EN
 ```
 
 <details>
-  <summary>Version FR</summary>
-
-Je conçois des outils Unity/Cocos et des pipelines CI modulaires pour livrer
-des expériences mobiles stables tout en cultivant une signature rétro.
-
+  <summary>Version française</summary>
+  Je conçois des systèmes de gameplay et des pipelines d’automatisation pour livrer des expériences mobiles fiables, de la préproduction au live ops.
 </details>
 
 ---
 
-Last updated: 2025-10-26
