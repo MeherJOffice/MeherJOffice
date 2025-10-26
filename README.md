@@ -8,6 +8,7 @@
 - 🛠 Crafting gameplay tooling, deterministic build systems, and live-ops infrastructure
 - 🧭 Founder of **DaVanci Ink** — Unity Asset Store publisher since 2022
 - 🚀 Mission: help gameplay teams ship faster with dependable pipelines
+> 🌍 **Availability:** Consulting & freelancing worldwide · open to full-time roles in Paris
 
 ---
 
@@ -95,21 +96,3 @@ Explore service offerings, case studies, and engagement models at **[davanciink.
 - Publishing production-safe PlayerPrefs tooling for Unity studios
 
 ---
-
-### 📬 Contact
-
-```
-Name      : Meher Jouini
-Handle    : Davancimeher
-Portfolio : https://www.davanciink.com
-Asset Hub : https://assetstore.unity.com/publishers/78800
-LinkedIn  : https://www.linkedin.com/in/jouini-meher
-Email     : jouin.meherr@gmail.com
-Phone     : +33 7 80 90 47 85
-Location  : Paris (Île-de-France) · FR / EN
-```
-
-<details>
-  <summary>Version française</summary>
-  Je conçois des systèmes de gameplay et des pipelines d’automatisation pour livrer des expériences mobiles fiables, de la préproduction au live ops.
-</details>
